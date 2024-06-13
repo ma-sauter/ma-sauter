@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQyaGFwNzllODhqczF2OWhxN3l5M3c2enE0bGg5aXh4dnA1MHowMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTzoDNc7O7wJi/giphy.webp" />
+</p>
+
+I'm a physics student currently living and studying in Stuttgart.
+I have research experience in the field of machine learning which you can find in my [BachelorThesis](https://github.com/ma-sauter/BachelorsThesis/blob/fd76ca689ef2c40fe56ad547bd89e4352719c5ca/main.pdf) repository.
+
+In the future I aspire to pursue a career in theoretical physics and want to contribute to our understanding of the fundamental workings behind the universe.
+
+You can reach me under my email address: [sauterm6800@gmail.com](mailto:sauterm6800@gmail.com)
 <!--
 **ma-sauter/ma-sauter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
